@@ -5,8 +5,8 @@ class RightSideBar extends Component{
         return (
             <div className="medium-3 large-3 columns">
             <h4 align="center" style={{color:'#5392C2'}}>Welcome</h4>
-            <p><img src="image/logo_head_left.png" alt="company logo"/></p>	
-            <p><strong style={{color:"#EF673D",fontWeight: "normal"}}>One Account</strong><br/><strong style={{color:"#43C055",fontWeight: "normal"}}>All all of Banijjo</strong></p>
+            <p><img src="/banijjoLogo.jpg" alt="Banijjo logo"/></p>	
+            {/* <p><strong style={{color:"#EF673D",fontWeight: "normal"}}>One Account</strong><br/><strong style={{color:"#43C055",fontWeight: "normal"}}>All all of Banijjo</strong></p> */}
             
             <div className="row">
             
